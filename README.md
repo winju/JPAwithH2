@@ -1,5 +1,7 @@
 # JPAwithH2
 This is a sample project demonstarting the use of JPA with in-memory database H2. Used CommandLineRunner and Logger to showcase what is happening in console itself(i.e Eclipse IDE console). 
+
+
 H2 database , JPA and Hibernate
 •	In Java we write Object oriented programming we deal with Objects but RDBMS database like Oracle store data as tables and this is where JPA(Java Persistence APIs) come to the rescue .
 •	The fundamentals that objects are made of fields while tables(RDBMS) are made of columns is itself by nature very different.
