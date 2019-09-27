@@ -3,6 +3,7 @@ This is a sample project demonstarting the use of JPA with in-memory database H2
 
 
 H2 database , JPA and Hibernate
+
 •	In Java we write Object oriented programming we deal with Objects but RDBMS database like Oracle store data as tables and this is where JPA(Java Persistence APIs) come to the rescue .
 •	The fundamentals that objects are made of fields while tables(RDBMS) are made of columns is itself by nature very different.
 •	So there is a mismatch between designing Classes and tables which creates lots of issues and problem of persistence comes in and we require JPA(we previously had JDBC,Spring JDBC etc).
